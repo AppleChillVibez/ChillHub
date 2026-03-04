@@ -8,6 +8,16 @@ body:
         **Before submitting**, please search [existing issues](https://github.com/AppleChillVibez/ChillHub/issues) to avoid duplicates.
         If your bug already exists, give it a thumbs up (👍) instead of creating a new one.
 
+  - type: dropdown
+    id: download-source
+    attributes:
+      label: Download Source
+      options:
+        - Play Store
+        - Sideloaded
+    validations:
+      required: true
+
   - type: input
     id: version
     attributes:
