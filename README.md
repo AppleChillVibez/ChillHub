@@ -60,7 +60,7 @@ For devices not on the Play Store (e.g. Fire TV) or if you prefer manual install
 
    **Downloader app (Fire TV):**
    - Install the [Downloader](https://www.amazon.com/dp/B01N0BP507) app on your Fire TV
-   - Enter the URL of the APK from the latest release
+   - Enter code **3908449**
    - Download and install
 
 4. After installing, set ChillHub as your default launcher — see [hub.chillio.app/default](https://hub.chillio.app/default) for device-specific instructions
