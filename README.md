@@ -6,6 +6,7 @@ A modern home screen launcher designed for simplicity, beauty, and putting you i
 
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=app.lumoslabs.chillhub)
 [![GitHub Release](https://img.shields.io/github/v/release/AppleChillVibez/ChillHub?label=Sideload&logo=github)](https://github.com/AppleChillVibez/ChillHub/releases/latest)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/AppleChillVibez)
 
 ## Features
 
