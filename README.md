@@ -7,6 +7,8 @@ A modern home screen launcher designed for simplicity, beauty, and putting you i
 [![Google Play](https://img.shields.io/badge/Google%20Play-Download-green?logo=google-play)](https://play.google.com/store/apps/details?id=app.lumoslabs.chillhub)
 [![GitHub Release](https://img.shields.io/github/v/release/AppleChillVibez/ChillHub?label=Sideload&logo=github)](https://github.com/AppleChillVibez/ChillHub/releases/latest)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/AppleChillVibez)
+[![Stars](https://img.shields.io/github/stars/AppleChillVibez/ChillHub?style=flat&logo=github&label=Stars)](https://github.com/AppleChillVibez/ChillHub/stargazers)
+[![Share](https://img.shields.io/badge/Spread%20the%20Word-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20ChillHub%20%E2%80%94%20a%20free%20Android%20TV%20launcher%20with%20no%20ads%20or%20tracking!&url=https://github.com/AppleChillVibez/ChillHub)
 
 ## Features
 
